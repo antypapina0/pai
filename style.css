@@ -1,0 +1,65 @@
+.naglowek{
+    background-color: aquamarine;
+}
+
+.logo{
+border-radius: 50%;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 15%;
+}
+
+.poz{
+    background-color:blueviolet;
+    padding: 10px;
+}
+
+.form{
+    background-color: rgb(102, 147, 230);
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+
+.main{
+    background-color: pink;
+    float: left;
+    width: 70%;
+    height: 400px;
+}
+
+
+
+.art{
+    background-color: gray;
+    width: 200px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.stopka{
+    background-color: greenyellow;
+    clear:both;
+    height: 25px;
+    width: 100%;
+}
+
+.form{
+    text-align: center;
+    font-size: larger;
+}
+
+
+.art_naglowek{
+    background-color: gray
+}
+
+
+p{
+    text-align: center;
+}
