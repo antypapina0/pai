@@ -1,4 +1,4 @@
-.naglowek{
+header{
     background-color: aquamarine;
 }
 
@@ -12,26 +12,24 @@ li{
     margin-left: 15%;
 }
 
-.poz{
+nav{
     background-color:blueviolet;
     padding: 10px;
 }
 
-.form{
+aside{
     background-color: rgb(102, 147, 230);
     float: left;
     width: 30%;
     height: 400px;
 }
 
-.main{
+article{
     background-color: pink;
     float: left;
     width: 70%;
     height: 400px;
 }
-
-
 
 .art{
     background-color: gray;
@@ -42,7 +40,7 @@ li{
     float: left;
 }
 
-.stopka{
+footer{
     background-color: greenyellow;
     clear:both;
     height: 25px;
